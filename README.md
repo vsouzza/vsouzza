@@ -75,6 +75,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3000&pause=800&color=FF2E97&center=true&vCenter=true&width=600&height=40&lines=GAME+ON+%F0%9F%95%B9%EF%B8%8F;Obrigado+por+visitar!" alt="Rodapé" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:3d3d3d,100:000000&height=120&section=footer" alt="Rodapé" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1321,100:f0ebd8&height=120&section=footer" alt="Rodapé" />
 
 </div>
