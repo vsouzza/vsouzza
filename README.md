@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:f0ebd8,100:0d1321&height=220&section=header&text=Vin%C3%ADcius%20Souza&fontSize=52&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=scaleIn&desc=%E2%80%A2%20Player%201%20%E2%80%A2%20Iniciando%20jornada%20na%20programa%C3%A7%C3%A3o%20%E2%80%A2&descSize=18&descAlignY=60" alt="Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f0ebd8,100:0d1321&height=220&section=header&text=Vin%C3%ADcius%20Souza&fontSize=52&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=scaleIn&desc=%E2%80%A2%20Player%201%20%E2%80%A2%20Iniciando%20jornada%20na%20programa%C3%A7%C3%A3o%20%E2%80%A2&descSize=18&descAlignY=60" alt="Banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3500&pause=1000&color=05D9E8&center=true&vCenter=true&width=800&height=60&lines=Ol%C3%A1%2C+mundo!+%F0%9F%91%BE;Eu+sou+o+Vin%C3%ADcius+Souza;Viajante+de+primeira+no+mundo+da+programa%C3%A7%C3%A3o;HTML+%7C+CSS+%7C+Bootstrap+%7C+React+%7C+JavaScript;Insert+coin+to+continue..." alt="Typing SVG" />
 
